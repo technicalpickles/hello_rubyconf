@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "hello_rubyconf"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Hello, Rubyconf!}
+    gem.description = %Q{The example gem created for a lightning talk on sinatra tools at Rubyconf 2009}
     gem.email = "josh@technicalpickles.com"
     gem.homepage = "http://github.com/technicalpickles/hello_rubyconf"
     gem.authors = ["Joshua Nichols"]
